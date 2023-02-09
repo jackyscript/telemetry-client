@@ -38,7 +38,6 @@ def plot_vehicle_data(data, x_label_text, y_label_text, title, save_path):
         "axes.labelsize": 10,
         "xtick.labelsize": 10,
         "ytick.labelsize": 10,
-        "font.family": "Monospace",
         "text.usetex": False,
     }
     # commit parameters
